@@ -60,6 +60,6 @@ Esta relación se representa en un diagrama entidad-relación (ERD) como el que 
 
 ## Imagen del Diagrama
 
-La imagen del diagrama de relaciones debe guardarse en la carpeta raíz del proyecto o en `public/images/` como `diagrama.png`. Esta imagen ilustra cómo los libros se relacionan con autores y editoriales.
+La imagen del diagrama de relaciones debe guardarse en la carpeta raíz del proyecto o en `public/images/` como `diagrama.png`. Esta imagen ilustra cómo los controladores de Laravel se comunican con las vistas de blade.
 
 ![Diagrama de Relaciones](DIAGRAMA-CONTROLLERS.png)
